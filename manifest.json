@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Search Reddit from Google",
+  "name": "Search Reddit",
   "version": "0.0.0",
   "description": "A handy browser extension that lets you easily search for content on Reddit right from the Google tab bar.",
   "author": "Ephraim Atta-Duncan",
