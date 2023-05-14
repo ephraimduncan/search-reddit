@@ -19,6 +19,7 @@ function createLink(symbol, name, url) {
   const a = document.createElement("a");
   a.style.color = "#969ba1";
   a.style.margin = "0 0.5em";
+  a.className += "search-reddit-link";
 
   const icon = document.createElement("span");
   icon.innerText = symbol;
